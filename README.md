@@ -1,5 +1,7 @@
 ### Hi there I'm ナビラ・ザファリナ ✨
-🌱 I’m currently learning frontend web        ![image](https://github.com/faryna03/faryna03/assets/99628696/293edd71-57cf-40f5-ad08-2c9802ba1847)
+🌱 I’m currently learning frontend web        ###![Uploading belle-anime-belle.gif…]()
+
+
 
 
 <!--
