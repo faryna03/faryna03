@@ -1,6 +1,6 @@
-![belle-anime-belle](https://github.com/faryna03/faryna03/assets/99628696/16bc047b-176d-46c7-9d19-f46ec5648e59)### Hi there I'm ナビラ・ザファリナ ✨
-🌱 I’m currently learning frontend web        ![![Uploading belle-anime-belle.gif](https://github.com/faryna03/faryna03/assets/99628696/cbc1b3c7-9220-4c27-b78c-b9f0d406d795)
-
+### Hi there I'm ナビラ・ザファリナ ✨
+🌱 I’m currently learning frontend web        
+![belle-anime-belle](https://github.com/faryna03/faryna03/assets/99628696/16bc047b-176d-46c7-9d19-f46ec5648e59)
 
 
 
