@@ -1,5 +1,6 @@
 ### Hi there I'm ナビラ・ザファリナ ✨
-🌱 I’m currently learning frontend web        ![Uploading belle4.gif…]()
+🌱 I’m currently learning frontend web        ![image](https://github.com/faryna03/faryna03/assets/99628696/293edd71-57cf-40f5-ad08-2c9802ba1847)
+
 
 <!--
 **faryna03/faryna03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
