@@ -1,4 +1,5 @@
-### Hi there I'm ナビラ・ザファリナ ✨
+### Hi there I'm ナビラ・ザファリナ 
+(Nabila Z.)✨
 🌱 I’m currently learning frontend web        
 
 ![belle-anime-belle](https://github.com/faryna03/faryna03/assets/99628696/16bc047b-176d-46c7-9d19-f46ec5648e59)
